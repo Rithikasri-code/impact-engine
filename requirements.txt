@@ -1,0 +1,7 @@
+pydantic>=2.6
+pydantic-settings>=2.2
+tree-sitter>=0.23
+tree-sitter-python>=0.23
+tree-sitter-go>=0.23
+pytest>=8.0
+ruff>=0.6
